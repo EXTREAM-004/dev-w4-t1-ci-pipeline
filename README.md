@@ -25,3 +25,5 @@ Install:
 Then run:
 
 kubectl apply -f k8s/
+
+Testing the ci pipeline
