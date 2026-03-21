@@ -26,4 +26,6 @@ Then run:
 
 kubectl apply -f k8s/
 
-Testing the ci pipeline--mithun
+Testing the ci pipeline--vectro
+
+Testing pipeline again
